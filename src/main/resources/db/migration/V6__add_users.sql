@@ -1,0 +1,14 @@
+INSERT INTO Users (id, first_name, last_name, age, crated_at, book_id) VALUES (1, 'John', 'Smith', 25, '2023-05-14 09:15:00', 7);
+INSERT INTO Users (id, first_name, last_name, age, crated_at, book_id) VALUES (14, 'John', 'Hasan', 25, '2023-01-01 10:00:00', 1);
+INSERT INTO Users (id, first_name, last_name, age, crated_at, book_id) VALUES (2, 'Emma', 'Johnson', 32, '2023-02-05 15:30:00', 2);
+INSERT INTO Users (id, first_name, last_name, age, crated_at, book_id) VALUES (3, 'Michael', 'Brown', 41, '2023-03-10 08:45:00', 3);
+INSERT INTO Users (id, first_name, last_name, age, crated_at, book_id) VALUES (4, 'Sophia', 'Davis', 28, '2023-04-15 14:20:00', 4);
+INSERT INTO Users (id, first_name, last_name, age, crated_at, book_id) VALUES (5, 'Daniel', 'Miller', 36, '2023-05-20 18:50:00', 5);
+INSERT INTO Users (id, first_name, last_name, age, crated_at, book_id) VALUES (6, 'Olivia', 'Wilson', 29, '2023-06-25 10:05:00', 6);
+INSERT INTO Users (id, first_name, last_name, age, crated_at, book_id) VALUES (7, 'Alexander', 'Taylor', 31, '2023-07-30 12:40:00', 7);
+INSERT INTO Users (id, first_name, last_name, age, crated_at, book_id) VALUES (8, 'Ava', 'Thomas', 33, '2023-08-04 15:25:00', 8);
+INSERT INTO Users (id, first_name, last_name, age, crated_at, book_id) VALUES (9, 'William', 'Anderson', 27, '2023-09-08 17:55:00', 9);
+INSERT INTO Users (id, first_name, last_name, age, crated_at, book_id) VALUES (10, 'Mia', 'Clark', 30, '2023-10-12 08:10:00', 10);
+INSERT INTO Users (id, first_name, last_name, age, crated_at, book_id) VALUES (11, 'James', 'Moore', 37, '2023-11-16 11:30:00', 11);
+INSERT INTO Users (id, first_name, last_name, age, crated_at, book_id) VALUES (12, 'Emily', 'Roberts', 24, '2023-12-20 16:15:00', 12);
+INSERT INTO Users (id, first_name, last_name, age, crated_at, book_id) VALUES (13, 'Benjamin', 'Parker', 35, '2024-01-24 09:50:00', 13);

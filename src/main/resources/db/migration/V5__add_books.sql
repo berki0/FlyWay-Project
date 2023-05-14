@@ -1,0 +1,14 @@
+INSERT INTO Books (id, name, description) VALUES (1, 'The Great Gatsby', 'A classic novel by F. Scott Fitzgerald.');
+INSERT INTO Books (id, name, description) VALUES (2, 'To Kill a Mockingbird', 'A Pulitzer Prize-winning novel by Harper Lee.');
+INSERT INTO Books (id, name, description) VALUES (3, '1984', 'A dystopian novel by George Orwell.');
+INSERT INTO Books (id, name, description) VALUES (4, 'Pride and Prejudice', 'A beloved novel by Jane Austen.');
+INSERT INTO Books (id, name, description) VALUES (5, 'The Catcher in the Rye', 'A coming-of-age novel by J.D. Salinger.');
+INSERT INTO Books (id, name, description) VALUES (6, 'To the Lighthouse', 'A modernist novel by Virginia Woolf.');
+INSERT INTO Books (id, name, description) VALUES (7, 'Moby-Dick', 'An epic sea-adventure novel by Herman Melville.');
+INSERT INTO Books (id, name, description) VALUES (8, 'Brave New World', 'A dystopian novel by Aldous Huxley.');
+INSERT INTO Books (id, name, description) VALUES (9, 'The Lord of the Rings', 'A fantasy epic by J.R.R. Tolkien.');
+INSERT INTO Books (id, name, description) VALUES (10, 'Jane Eyre', 'A classic novel by Charlotte Brontë.');
+INSERT INTO Books (id, name, description) VALUES (11, 'The Odyssey', 'An ancient Greek epic poem attributed to Homer.');
+INSERT INTO Books (id, name, description) VALUES (12, 'Crime and Punishment', 'A psychological novel by Fyodor Dostoevsky.');
+INSERT INTO Books (id, name, description) VALUES (13, 'The Hobbit', 'A fantasy novel by J.R.R. Tolkien.');
+INSERT INTO Books (id, name, description) VALUES (14, 'The Great Expectations', 'A novel by Charles Dickens.');
